@@ -1,0 +1,14 @@
+---
+dev:
+  foo: bar
+  password: secret
+  app1:
+    dbhost: a.b.c
+    dbpass: secret
+
+prod:
+  foo: barbar
+  password: LoyWecop
+  app1:
+    dbhost: a.b.d
+    dbpass: NoHiecma
